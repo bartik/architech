@@ -1,5 +1,3 @@
-
-$ cat archi_model.pl
 #!/usr/bin/perl
 use strict;
 use warnings;
