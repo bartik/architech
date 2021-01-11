@@ -1,2 +1,2 @@
 # architech
-Script t generate archimate objects.
+Script to generate archimate objects.
